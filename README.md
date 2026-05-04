@@ -1,4 +1,4 @@
-# 🧪 📊 Customer Retention & Purchase Behavior Analysis
+** Customer Retention & Purchase Behavior Analysis**
 
 ## 🎯 Objective
 This project analyzes customer purchasing behavior to understand:
